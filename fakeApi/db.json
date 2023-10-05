@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "andi",
+      "email": "andi@gmail.com",
+      "password": "12345"
+    },
+    {
+      "name": "upin",
+      "email": "upin@mail.com",
+      "password": "upin123",
+      "id": 3
+    },
+    {
+      "name": "batman",
+      "email": "batman@mail.com",
+      "password": "batman123",
+      "id": 4
+    },
+    {
+      "name": "ipin",
+      "email": "ipin@mail.com",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "name": "uncle sam",
+      "email": "dsalkdla@mail",
+      "password": "12345",
+      "id": 7
+    }
+  ]
+}
